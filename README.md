@@ -1,3 +1,9 @@
+[![](https://images.microbadger.com/badges/image/scolagreco/centos-java-springboot.svg)](https://microbadger.com/images/scolagreco/centos-java-springboot "Get your own image badge on microbadger.com") 
+[![](https://images.microbadger.com/badges/commit/scolagreco/centos-java-springboot.svg)](https://microbadger.com/images/scolagreco/centos-java-springboot "Get your own commit badge on microbadger.com")
+
+[![Docker Stars](https://img.shields.io/docker/stars/scolagreco/centos-java-springboot.svg)](https://hub.docker.com/r/scolagreco/centos-java-springboot/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/scolagreco/centos-java-springboot.svg)](https://hub.docker.com/r/scolagreco/centos-java-springboot/)
+
 # Docker CentOS e Java for running Spring Boot App
 
 Repository con il dockerfile per creare una Docker Image per eseguire app Spring Boot (su CentOS).
